@@ -20,7 +20,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,html,css,nodejs,tailwind,vscode,git,github,postman,powershell,stackoverflow,linux,raspberrypi,arduino,sqlite,mongodb,mysql,ps,figma,xd&perline=10&theme=light" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,html,css,nodejs,vscode,git,github,postman,powershell,stackoverflow,raspberrypi,arduino,mongodb,mysql,ps,xd&perline=10&theme=light" alt="My Skills" />
   </a>
 </p>
 
