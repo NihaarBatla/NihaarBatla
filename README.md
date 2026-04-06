@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Nihaar</h1>
-<h3 align="center">Passionate web developer crafting pixel-perfect experiences with code, fueled by caffeine and a love for turning ideas into reality.</h3>
+<h3 align="center">Passionate web developer and aspriting Electrical Engineer crafting pixel-perfect experiences with code, fueled by caffeine and a love for turning ideas into reality.</h3>
 <img align = "right" alt="coding" width="400" src="https://i.pinimg.com/originals/a8/ea/82/a8ea82f4a7a31d90ad5366b60248472d.gif">
 
 - 🔭 I'm currently working on Personal Portfolio and Contributing to OpenSource.
